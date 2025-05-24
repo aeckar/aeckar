@@ -1,7 +1,5 @@
 # A. Eckardt (aka *Spoon*)
 
-*"What can be done by man can be done by algorithm."*
-
 *Hello!* 👋 I am a full-time student at the University of South Florida.
 I plan to graduate Fall 2025 with a B.S. in Computer Science, whereafter I plan to obtain my master's.
 
