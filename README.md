@@ -1,7 +1,7 @@
 # A. Eckardt (aka *Spoon*)
 
 *Hello!* 👋 I am a full-time student at the University of South Florida.
-I plan to graduate Fall 2025 with a B.S. in Computer Science, whereafter I plan to obtain my master's.
+I plan to graduate May 2026 with a B.S. in Computer Science, whereafter I plan to obtain my master's.
 
 Currently, I am a Kotlin developer with a focus on desktop development.
 In the future, I want to be able to create full-stack web apps with Kotlin as a backend.
