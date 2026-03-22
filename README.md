@@ -2,7 +2,3 @@
 
 *Hello!* 👋 I am a full-time student at the University of South Florida.
 I plan to graduate May 2026 with a B.S. in Computer Science, with hopes of obtaining my master's some time in the future.
-
-Currently, I am a Kotlin developer with a focus on desktop development.
-In the future, I want to be able to create full-stack web apps with Kotlin as a backend.
-A common theme in my projects is that they help to increase productivity and collaboration between people.
