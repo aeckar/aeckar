@@ -15,7 +15,7 @@ I am a software engineer with a knack for tooling and a passion for clean code.
 - 🟦 `deadeye` – High-efficiency, context-aware snippet engine for VS Code designed to promote flow state.
 
 ⌛ **I have previously worked on**
-- 🔰 `gitwriter` – Static site generator that hooks into existing Markdown repositories, powered by the GitHub API 
+- 🔰 🟪 `gitwriter` – Static site generator that hooks into existing Markdown repositories, powered by the GitHub API 
 - 🎯 `match-usf` – Real-time, location-aware meetup app for University of South Florida students 
 
 ## Open Source Interests
