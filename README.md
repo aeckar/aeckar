@@ -6,13 +6,17 @@ Recently graduated from the University of South Florida with a B.S. in Computer 
 Currently seeking a M.S. in Software Engineer with a focus on AI Engineering from Western Governors University.
 I am a software engineer with a knack for tooling and a passion for clean code.
 
-✅ **My recent completed projects include**
+✅ **My recently completed projects include**
 - 🦀 `bincake` – Zero-dependency, lightweight binary serialization format optimized for deterministic encoding.
 - 🦀 `taped` – High-performance, contiguous memory cursor data structure designed for zero-allocation traversal.
 
 🛠 **I am currently working on**
 - 🦀 `draft` – Unified ecosystem and compiler pipeline for a custom, programmable markup language
 - 🟦 `deadeye` – High-efficiency, context-aware snippet engine for VS Code designed to promote flow state.
+
+⌛ **I have previously worked on**
+- 🔰 `gitwriter` – Static site generator that hooks into existing Markdown repositories, powered by the GitHub API 
+- 🎯 `match-usf` – Real-time, location-aware meetup app for University of South Florida students 
 
 ## Open Source Interests
 
