@@ -3,8 +3,8 @@
 ## Overview
 
 Recently graduated from the University of South Florida with a B.S. in Computer Science.
-I am a software engineer who enjoys pure coding.
-I am currently seeking a M.S. in Software Engineer with a focus on AI Engineering from Western Governors University.
+Currently seeking a M.S. in Software Engineer with a focus on AI Engineering from Western Governors University.
+I am a software engineer with a knack for tooling and a passion for clean code.
 
 ✅ **My recent completed projects include**
 - 🦀 `bincake` – Zero-dependency, lightweight binary serialization format optimized for deterministic encoding.
