@@ -13,7 +13,6 @@ I am a software engineer with a knack for tooling and a passion for clean code.
 🛠 **I am currently working on**
 - 🦀 `draft` – Unified ecosystem and compiler pipeline for a custom, programmable markup language
 - 🟦 `deadeye` – High-efficiency, context-aware snippet engine for VS Code designed to promote flow state.
-- 🟦 `quickdraw` – Responsive completion engine for VS Code that automatically sends "hot" text substitutes.
 
 ## Open Source Interests
 
