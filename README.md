@@ -16,7 +16,12 @@ I am a software engineer with a knack for tooling and a passion for clean code.
 
 ⌛ **I have previously worked on**
 - 🔰 🟪 `gitwriter` – Static site generator that hooks into existing Markdown repositories, powered by the GitHub API 
-- 🎯 `match-usf` – Real-time, location-aware meetup app for University of South Florida students 
+- 🎯 `match-usf` – Real-time, location-aware meetup app for University of South Florida students
+
+⠀
+
+<!-- use U+2800 for spacing -->
+⠀⠀⠀⠀⠀⠀⠀⠀🦀 Rust ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟦 TypeScript ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🔰 Vue ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟪 Kotlin ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🎯 Dart
 
 ## Open Source Interests
 
