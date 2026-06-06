@@ -21,7 +21,7 @@ I am a software engineer with a knack for tooling and a passion for clean code.
 ⠀
 
 <!-- use U+2800 for spacing -->
-⠀⠀⠀⠀⠀⠀⠀⠀🦀 Rust ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟦 TypeScript ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🔰 Vue ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟪 Kotlin ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🎯 Dart
+⠀⠀⠀⠀⠀⠀🦀 Rust ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟦 TypeScript ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🔰 Vue ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟪 Kotlin ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🎯 Dart
 
 ## Open Source Interests
 
